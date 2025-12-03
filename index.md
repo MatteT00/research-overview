@@ -45,7 +45,7 @@ My research contributions include:
 
 ## 📄 Curriculum Vitae
 You can download my CV here:  
-👉 **
+👉 *https://github.com/user-attachments/files/23918348/CV_Matteo_Tarantino.pdf*
 
 ---
 
