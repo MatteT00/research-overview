@@ -37,7 +37,7 @@ I am a Research Fellow at **Politecnico di Milano** (MOVE Research Group), where
 I obtained my **MSc in Automation and Control Engineering**, graduating with **110/110 cum laude**.  
 My research contributions include:
 
-- robust state estimation for reusable launch vehicles  
+- robust state estimation and control for reusable launch vehicles  
 - motion sickness–aware planning algorithms for autonomous vehicles  
 - development of GNC modules within industrial and academic frameworks  
 
@@ -45,13 +45,13 @@ My research contributions include:
 
 ## 📄 Curriculum Vitae
 You can download my CV here:  
-👉 *(insert your CV link)*
+👉 **
 
 ---
 
 ## 📬 Contact
 - **Email:** matteo.tarantino@polimi.it  
-- **LinkedIn:** *(insert link)*  
+- **LinkedIn:** *https://www.linkedin.com/in/matteo-tarantino-eng*  
 
 ---
 
